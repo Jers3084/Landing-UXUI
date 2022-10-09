@@ -228,6 +228,7 @@ footer section h4 {
   font-weight: 400;
   font-size: var(--h4);
   line-height: 28px;
+  text-align: center;
 }
 
 .foot {
@@ -253,6 +254,20 @@ footer section h4 {
 .listfoot {
   margin-top: 10px;
   list-style: none;
+}
+
+.social {
+  width: 100%;
+  padding: 16px;
+}
+
+.imgsocial {
+  padding: 8px;
+}
+
+.imgsocial:hover {
+  transition: all 0.5s;
+  transform: scale(1.2);
 }
 
 @media screen and (max-width: 394px) {
