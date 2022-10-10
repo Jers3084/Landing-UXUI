@@ -25,7 +25,6 @@
 
 body {
   max-width: 1440px;
-
   margin: 0 auto;
 }
 
@@ -38,6 +37,10 @@ body {
   justify-content: space-around;
   align-items: center;
   color: var(--Blanco);
+}
+
+h1 {
+  text-align: center;
 }
 
 .menusandwich {
@@ -101,6 +104,7 @@ main {
   column-gap: 16px;
   padding: 16px;
   background-color: var(--Background);
+  border-top: var(--Azul1) solid 1px;
   border-left: var(--Azul1) solid 1px;
   border-right: var(--Azul1) solid 1px;
 }
