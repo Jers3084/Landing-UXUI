@@ -232,6 +232,10 @@ footer section h4 {
   font-weight: 400;
   font-size: var(--h4);
   line-height: 28px;
+  text-align: left;
+}
+
+.titlesocial {
   text-align: center;
 }
 
