@@ -27,6 +27,7 @@
 body {
   max-width: 1440px; /*se fija tamaño del frame de acuerdo al diseño de figma*/
   margin: 0 auto;
+  min-height: 100vh;
 }
 
 .cabecera {
